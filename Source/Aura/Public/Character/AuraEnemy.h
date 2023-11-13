@@ -23,7 +23,7 @@ public:
 	virtual void UnHighlightActor() override;
 	/** amd Enemy Interface */
 
-protected:
-	virtual void Beginplay() override;
+	protected:
+	virtual void BeginPlay() override;
 	
 };
